@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactwhiteportfolio/static/css/main.ee98aa41.css",
+    "main.js": "/Reactwhiteportfolio/static/js/main.155f55ec.js",
+    "static/js/787.d6211e59.chunk.js": "/Reactwhiteportfolio/static/js/787.d6211e59.chunk.js",
+    "static/media/1.png": "/Reactwhiteportfolio/static/media/1.29e497a3cfe843230958.png",
+    "static/media/lll.png": "/Reactwhiteportfolio/static/media/lll.123c52336b4b2237e6c7.png",
+    "static/media/4.png": "/Reactwhiteportfolio/static/media/4.2ac6e6f3a389c031aa5b.png",
+    "static/media/2.png": "/Reactwhiteportfolio/static/media/2.e47ae2b553d74d6f459e.png",
+    "static/media/vv.png": "/Reactwhiteportfolio/static/media/vv.84177a3bb56fd7554a69.png",
+    "static/media/nn.png": "/Reactwhiteportfolio/static/media/nn.f82b026fc5c45fc58244.png",
+    "static/media/logoj.png": "/Reactwhiteportfolio/static/media/logoj.44b0673eb6024ada26ae.png",
+    "static/media/A.png": "/Reactwhiteportfolio/static/media/A.e0b33fccaf3f3f587ee3.png",
+    "static/media/contact1.png": "/Reactwhiteportfolio/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/w3.jpeg": "/Reactwhiteportfolio/static/media/w3.f0936f25c3242a193f44.jpeg",
+    "index.html": "/Reactwhiteportfolio/index.html",
+    "main.ee98aa41.css.map": "/Reactwhiteportfolio/static/css/main.ee98aa41.css.map",
+    "main.155f55ec.js.map": "/Reactwhiteportfolio/static/js/main.155f55ec.js.map",
+    "787.d6211e59.chunk.js.map": "/Reactwhiteportfolio/static/js/787.d6211e59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee98aa41.css",
+    "static/js/main.155f55ec.js"
+  ]
+}
